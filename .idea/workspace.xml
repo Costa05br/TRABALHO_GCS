@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03de9d46-8bf3-415c-ae4f-08bb18d57b72" name="Changes" comment="" />
+    <list default="true" id="03de9d46-8bf3-415c-ae4f-08bb18d57b72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatusPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/StatusPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/TipoUsuario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +40,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,6 +71,7 @@
       <workItem from="1728475298589" duration="1737000" />
       <workItem from="1728477144423" duration="382000" />
       <workItem from="1728481306632" duration="332000" />
+      <workItem from="1728689226667" duration="303000" />
     </task>
     <servers />
   </component>
