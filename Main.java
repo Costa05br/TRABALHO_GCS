@@ -70,13 +70,13 @@ public class Main {
         departamentos.addAll(Arrays.asList(financeiro, rh, engenharia, manutencao, ti));
 
         // Inicializa Funcionários
-        Funcionario joao = new Funcionario(1, "João", financeiro);
-        Funcionario maria = new Funcionario(2, "Maria", rh);
-        Funcionario carlos = new Funcionario(3, "Carlos", engenharia);
-        Funcionario ana = new Funcionario(4, "Ana", manutencao);
-        Funcionario pedro = new Funcionario(5, "Pedro", ti);
+        Funcionario joãoLucas = new Funcionario(1, "João Lucas", financeiro);
+        Funcionario marcoAntonio = new Funcionario(2, "Marco Antonio", rh);
+        Funcionario gabrielAmarante = new Funcionario(3, "Gabriel Amarante", engenharia);
+        Funcionario gabrielaSchmidt = new Funcionario(4, "Gabriela Schmidt", manutencao);
+        Funcionario gabrielRamos = new Funcionario(5, "Gabriel Ramos", ti);
 
-        funcionarios.addAll(Arrays.asList(joao, maria, carlos, ana, pedro));
+        funcionarios.addAll(Arrays.asList(joãoLucas, marcoAntonio, gabrielAmarante, gabrielaSchmidt, gabrielRamos));
 
         // Define o usuário inicial como administrador
         usuarioAtual = new Administrador(6, "Admin");
