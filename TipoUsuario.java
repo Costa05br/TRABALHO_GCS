@@ -1,6 +1,6 @@
 public enum TipoUsuario {
     // Constantes
-    FUNCIONARIO("Funcionário"), 
+    FUNCIONARIO("Funcionário"),
     ADMINISTRADOR("Administrador");
 
     // Atributo

@@ -6,9 +6,9 @@ public class Funcionario extends Usuario {
     private Departamento departamento;
     private List<Pedido> pedidos;
 
-    public Funcionario(int id, String nome, Departamento departamento) {
+    public Funcionario(int id, String nome, Departamento string) {
         super(id, nome);
-        this.departamento = departamento;
+        this.departamento = string;
         this.pedidos = new ArrayList<>();
     }
 
@@ -29,3 +29,4 @@ public class Funcionario extends Usuario {
         }
     }
 }
+

@@ -7,7 +7,7 @@ public enum StatusPedido {
 
     private String label;
 
-     StatusPedido(String label) {
+    StatusPedido(String label) {
         this.label = label;
     }
 }
